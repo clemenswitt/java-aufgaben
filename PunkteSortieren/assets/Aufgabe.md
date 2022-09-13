@@ -14,3 +14,4 @@ Analog zur dritten Aufgabe des Softwarepraktikums sollen im folgenden Beispiel P
 ### Entwicklungsziele
 [task][Punkte-Array korrekt initialisiert](checkArraySize)
 [task][Punkte-Array mit Punkten des gegebenen Definitions- & Wertebereichs gefüllt](checkGeneratedPoints)
+[task][Sortierverfahren korrekt implementiert](checkPointOrder)
