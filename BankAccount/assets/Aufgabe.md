@@ -13,4 +13,4 @@ Ergänzen Sie die im Dateibrowser gegebene Datei `BankAccount.java` um folgende 
 [task][Methode payIn() erhöht Kontostand](checkPayIn)
 [task][Methode payOff() reduziert Kontostand](checkPayOff)
 [task][Konto akzeptiert keine Überziehung des Kontostands](CheckNoNegativeBalance)
-[task][Methoden payIn() und payOff() geben aktualisierten Kontostand zurück.](checkReturnValues)
+[task][Methoden payIn() und payOff() geben aktualisierten Kontostand zurück](checkReturnValues)
